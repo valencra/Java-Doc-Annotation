@@ -22,7 +22,7 @@ public class MathUtils {
     @Doc(
             desc = "Calculates the distance between the given points",
             params = {"Coordinates of one point", "Coordinates of another point"},
-            returnVale = ""
+            returnVal = ""
     )
     public static Double distance(Point2D.Double a, Point2D.Double b) {
         return 0.0;
